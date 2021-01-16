@@ -24,11 +24,11 @@
 
 	a {
 		color: #EB8497; /*#629DD1;*/
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 		a:hover {
-			text-decoration: none;
+			text-decoration: underline;
 		}
 
 	strong, b, .cc-active {
