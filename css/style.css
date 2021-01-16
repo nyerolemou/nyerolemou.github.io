@@ -426,7 +426,8 @@
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
-		position: static;
+		position: relative;
+		padding: 0 0 0 0;
 	}
 
 		.icon:before {
